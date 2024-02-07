@@ -1,3 +1,11 @@
-Meu projeto planilha Quiz feito no HTLM, CSS e JavaScript, na aula da Rockseat.
+# Projeto-Quiz
+
+## Tecnologias Utilizadas
+
+- HTLM
+- CSS
+- JavaScript
+- Github
+
 
 Créditos: rockeseat.com.br
